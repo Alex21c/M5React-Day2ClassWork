@@ -15,6 +15,12 @@ html{
 body{
   font-family: "Roboto", sans-serif;
 }
+h1{
+  font-size: 3rem;
+}
+p{
+  font-size: 1.3rem;
+}
 body#root>div{
   max-width:50rem;
   margin:auto;
